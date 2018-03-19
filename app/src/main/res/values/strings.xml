@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">iFitness</string>
+    <string name="reset_button">Reset</string>
+    <string name="add_button">Add to total</string>
+    <string name="undo_button">Undo</string>
+    <string name="redo_button">Redo</string>
+    <string name="reset_warning">Are you sure?</string>
+    <string name="calories_label">Calories:</string>
+    <string name="fat_label">Fat:</string>
+    <string name="carbs_label">Carbohydrates:</string>
+    <string name="protein_label">Protein:</string>
+    <string name="total_label">Your totals today:</string>
+    <string name="cant_undo">Cannot undo.</string>
+    <string name="cant_redo">Cannot redo.</string>
+    <string name="alert_dialog">Reset?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="report_Button">View Report</string>
+    <string name="reportTitle">Report</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
